@@ -47,6 +47,14 @@ public interface Economy {
     public double getDefaultBalance();
 
     /**
+     * Format amount into a human readable String.
+     *
+     * @param amount to format.
+     * @return Human readable String describing amount.
+     */
+    public String formatBalance(double amount);
+
+    /**
      * Checks if Player has an Account in Economy System.
      *
      * @param player {@link Player} to check.
