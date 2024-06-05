@@ -18,7 +18,7 @@
 
     <distributionManagement>
         <repository>
-            <id>economy-interface</id>
+            <id>economyInterface</id>
             <name>EconomyInterface</name>
             <url>https://repo.felipe.fun/releases</url>
         </repository>
