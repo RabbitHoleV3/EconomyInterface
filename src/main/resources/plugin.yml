@@ -1,0 +1,4 @@
+name: EconomyInterface
+version: '${project.version}'
+main: fun.felipe.economyinterface.EconomyInterface
+api-version: '1.20'
