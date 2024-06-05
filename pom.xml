@@ -6,7 +6,7 @@
 
   <groupId>fun.felipe</groupId>
   <artifactId>EconomyInterface</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-RELEASE</version>
   <packaging>jar</packaging>
 
   <name>EconomyInterface</name>
@@ -20,7 +20,7 @@
         <repository>
             <id>economy-interface</id>
             <name>EconomyInterface</name>
-            <url>https://repo.felipe.fun/rabbit-hole</url>
+            <url>https://repo.felipe.fun/releases</url>
         </repository>
     </distributionManagement>
 
