@@ -6,7 +6,7 @@
 
   <groupId>fun.felipe</groupId>
   <artifactId>EconomyInterface</artifactId>
-  <version>1.0.0-RELEASE</version>
+  <version>1.0.1-RELEASE</version>
   <packaging>jar</packaging>
 
   <name>EconomyInterface</name>
@@ -49,12 +49,6 @@
         </executions>
       </plugin>
     </plugins>
-    <resources>
-      <resource>
-        <directory>src/main/resources</directory>
-        <filtering>true</filtering>
-      </resource>
-    </resources>
   </build>
 
   <repositories>
