@@ -20,7 +20,7 @@
         <repository>
             <id>economyInterface</id>
             <name>EconomyInterface</name>
-            <url>https://repo.felipe.fun/rabbit-hole</url>
+            <url>https://repo.felipe.fun/releases</url>
         </repository>
     </distributionManagement>
 
